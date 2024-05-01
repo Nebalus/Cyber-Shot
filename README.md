@@ -1,1 +1,1 @@
-# Cyber-Shot 
+# CyberShot 
